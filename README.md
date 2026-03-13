@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OnurSozer/OnurSozer/main/assets/banner.png" alt="Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/OnurSozer/OnurSozer/main/assets/banner.gif" alt="Banner" width="100%"/>
 </p>
 
 <h1 align="center">
