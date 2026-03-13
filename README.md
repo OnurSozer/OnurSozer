@@ -83,20 +83,11 @@ website: onursozer.com
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=OnurSozer&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=C9D1D9&ring_color=FF6B35" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnurSozer&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnurSozer&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=OnurSozer&theme=radical&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FF4500&currStreakLabel=FF6B35&sideLabels=FF6B35&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OnurSozer&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7&title_color=FF6B35" alt="Trophies"/>
 </p>
 
 ---
