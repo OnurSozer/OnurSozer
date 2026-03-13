@@ -28,14 +28,12 @@ location: İzmir, Türkiye 🇹🇷
 role: Full-Stack Developer
 focus: Mobile Development
 primary_skill: Flutter & Dart
-current_project: Building awesome mobile apps
 website: onursozer.com
 ```
 
 - 🔭 I'm currently working on **mobile-first applications**
 - 🌱 I'm always exploring new **cross-platform technologies**
 - 💬 Ask me about **Flutter, React Native, Supabase**
-- ⚡ Fun fact: I build robots too 🤖
 - 📫 Reach me at **[onursozer.com](https://onursozer.com)**
 
 <br clear="both"/>
